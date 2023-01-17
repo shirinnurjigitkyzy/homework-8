@@ -1,0 +1,43 @@
+.pre-header{
+    display: flex;
+    padding: 10px;
+}
+.call-center{
+    display: flex;
+    margin-left: 20px;
+    color: white;
+    color:  #969696;
+}
+.login{
+    display: flex;
+    margin-left: 700px;
+}
+.login a{
+    color:  #969696;
+}
+.header{
+    background-color: #0F0F0F;
+    padding: 28px;
+    margin: 0 auto;
+}
+.navbar{
+    margin-left: 32px;
+}
+.list-item a {
+    margin-left: 80px;
+    color: #969696;
+}
+.li{
+    display: flex;
+    margin-left: 550px;
+    margin-top: -28px;
+}
+.list-style{
+    background-color: #1F1F1F;
+    padding: 32px;
+}
+@media (max-width: 1400px){
+       .li_2{
+        display: none;
+       }
+}
